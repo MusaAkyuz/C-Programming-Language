@@ -1,1 +1,0 @@
-Hello C is written on the screen
