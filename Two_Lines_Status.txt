@@ -1,1 +1,34 @@
 Learn use comparison structure
+
+
+
+
+
+
+
+Result::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Enter the coefficients in the equations of the two lines you want to learn
+The coefficient of X in the first equation
+The coefficient of Y in the first equation
+The C value in the first equation
+The coefficient of X in the second equation
+The coefficient of Y in the second equation
+The C value in the second equation
+
+2 -6 10 4 -12 57
+The lines are parallel!
+Distance in between two lines: 7,43
+
+1 1 1 2 2 2
+The lines are conflict!
+
+7 -2 14 3 2 -20
+The lines intersect!
+The angle in between two line: 49,64°
+The intersection point: (0,60 , 9,10)
+
+1 -1 20 1 1 -20
+The lines are perpendicular!
+The angle in between two line: 90,00°
+The intersection point: (0,00 , 20,00)
