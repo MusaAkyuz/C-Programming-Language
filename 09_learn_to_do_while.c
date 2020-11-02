@@ -1,6 +1,6 @@
 /*
 31.10.2020
-By Musa Akyüz
+By Musa AkyÃ¼z
 Learn to do-while 
 */
 
