@@ -1,6 +1,6 @@
 /*
 29.10.2020
-by Musa Akyüz
+by Musa AkyÃ¼z
 learn to define
 */
 
