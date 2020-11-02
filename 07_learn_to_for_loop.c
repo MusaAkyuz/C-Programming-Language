@@ -1,6 +1,6 @@
 /*
 2.11.2020
-By Musa Akyüz
+By Musa AkyÃ¼z
 Learn to for loop
 */
 
